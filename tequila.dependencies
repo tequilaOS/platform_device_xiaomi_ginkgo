@@ -1,0 +1,18 @@
+[
+    {
+        "repository":   "eun0115/kernel-ginkgo",
+        "target_path":  "kernel/xiaomi/ginkgo"
+    },
+    {
+        "repository":   "eun0115/vendor_xiaomi_ginkgo",
+        "target_path":  "vendor/xiaomi/ginkgo"
+    },
+    {
+        "repository":   "fiqri19102002/android_vendor_miuicamera",
+        "target_path":  "vendor/miuicamera"
+    },
+    {
+        "repository":   "kdrag0n/proton-clang",
+        "target_path":  "prebuilts/clang/host/linux-x86/clang-proton"
+    },
+]
